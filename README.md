@@ -56,6 +56,8 @@ A simple Android application to browse random dog images, save favorites, and se
 │   ├── drawable/              # App icons and images
 │   └── values/                # Strings, colors, and styles
 └── build.gradle               # Gradle configuration
+```
+
 
 # Dog Images App API & Credits 📜
 
