@@ -113,7 +113,7 @@ Acknowledgements 🙏
 Dog CEO API: For providing the free dog image API.
 Glide: For effortless image loading.
 OkHttp: For robust HTTP requests.
-Made with ❤️ by Your Name
+Made with ❤️ by Gopal Jaju
 
 markdown
 Copy code
