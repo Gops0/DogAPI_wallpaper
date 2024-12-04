@@ -101,13 +101,15 @@ The app uses the **Dog CEO API** to fetch random dog images.
 Contributing 🤝
 Contributions are welcome! If you'd like to improve this app:
 
+
+
 Fork the repository.
 Create a new branch: git checkout -b feature/YourFeature.
 Commit your changes: git commit -m "Added YourFeature".
 Push to the branch: git push origin feature/YourFeature.
 Submit a pull request.
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
 Acknowledgements 🙏
 Dog CEO API: For providing the free dog image API.
