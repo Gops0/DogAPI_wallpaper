@@ -21,7 +21,7 @@ A simple Android application to browse random dog images, save favorites, and se
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dog-images-app.git
+   git clone https://github.com/Gops0/DogAPI_wallpaper.git
 2.Open the project in Android Studio.
 3.Sync the Gradle files.
 4.Run the app on an Android device or emulator.
