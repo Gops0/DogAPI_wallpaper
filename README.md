@@ -15,7 +15,7 @@ A simple Android application to browse random dog images, save favorites, and se
 | ![Home](screenshots/home_screen.png) | ![Favorites](screenshots/favorites_screen.png) | ![Wallpaper Success](screenshots/wallpaper_success.png) |
 
 ## Demo 🎥
-[Watch the demo video here](https://github.com/your-username/dog-images-app/demo.mp4)
+[Watch the demo video here](https://github.com/Gops0/DogAPI_wallpaper/DogAPI_DEMO.mp4)
 
 ## Installation 📥
 
